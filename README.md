@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm [Your Name] 👋
 🚀 Aspiring Data Scientist & Web Developer  
-💻 Passionate about Python, Java, and Web Development  
+💻 Passionate about C,C++,Python, Java, and Web Development  
 🔒 Cybersecurity Enthusiast | Innovation & Learning  
 🌎 Connect with me: [LinkedIn](https://www.linkedin.com/in/ravi-kumar-163726250/) | <!--[Portfolio](https://yourwebsite.com)-->
 
